@@ -24,7 +24,7 @@ This is a personal repository for studying and practicing web development. It co
 
 ## Project Structure
 
-Each folder contains an individual project or example, with a `README.md` explaining the specific purpose and technologies used.
+The basic folder contains some concept studies, starting with JavaScript. As I progress further in this area, I will add other folders with projects and concepts of other technologies.
 
 ## Getting Started
 
