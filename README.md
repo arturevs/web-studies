@@ -30,4 +30,4 @@ The basic folder contains some concept studies, starting with JavaScript. As I p
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/web-dev-study.git
+   git clone https://github.com/arturevs/web-studies.git
